@@ -1,0 +1,41 @@
+body{
+    margin: 0%;
+    font-family:'Playfair Display', serif;;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.name-color{
+    color: steelblue;
+}
+
+.description{
+    width: 50%;
+    padding-top: 30px;
+}
+
+.first-image{
+    width: 50%;
+}
+
+.first-image img{
+    height: 8%;
+    padding: 7%;
+    border-radius: 1000px;
+}
+
+.description button{
+    background-color: aqua;   
+    border-radius: 10px;
+    font-weight: 550;
+}
+section{
+    display: flex;
+}
+
+.top-banner{
+    background-image: url(show-off/top-banner.png);
+    background-repeat: no-repeat;
+}
